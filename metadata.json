@@ -1,0 +1,5 @@
+{
+  "name": "AI Book Writer",
+  "description": "An application that uses AI to help you start writing a book. Provide a prompt, and the AI will generate the first chapter, then continue writing chapter by chapter, maintaining the story's context.",
+  "requestFramePermissions": []
+}
